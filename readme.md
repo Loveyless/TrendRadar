@@ -1,3 +1,42 @@
+https://loveyless.github.io/TrendRadar/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > 点击跳转 [AI 分析部署专区](#-ai-智能分析部署) 使用 **AI 功能** 的最佳前提是已使用本项目至少推送一天(积累新闻数据)
 
 <div align="center" id="trendradar">
